@@ -1,0 +1,6 @@
+index:
+    path: /
+    controller: App\Controller\DefaultController::index
+#home:
+ # path: /
+  #  Controller: App\Controller\Menu::index
